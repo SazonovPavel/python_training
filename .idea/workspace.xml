@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="98bed8ce-b1ea-4db2-bdbd-a9f6d9af640c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+<<<<<<< HEAD
+    <list default="true" id="98bed8ce-b1ea-4db2-bdbd-a9f6d9af640c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+=======
+    <list default="true" id="98bed8ce-b1ea-4db2-bdbd-a9f6d9af640c" name="Default Changelist" comment="" />
+>>>>>>> eeec8c2e4ff3deb302046e6ef3e7c4180b292fb3
+>>>>>>> 0c4a940c5a99599a5e519fa9f3fd29087d00246e
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +25,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_add_group.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="-730">
               <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="289">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+=======
+            <state relative-caret-position="-221">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="25" />
+>>>>>>> eeec8c2e4ff3deb302046e6ef3e7c4180b292fb3
+>>>>>>> 0c4a940c5a99599a5e519fa9f3fd29087d00246e
               <folding>
                 <element signature="e#24#82#0" expanded="true" />
               </folding>
@@ -53,8 +73,17 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="7">
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
+    <option name="x" value="65" />
+    <option name="y" value="25" />
+=======
+>>>>>>> 0c4a940c5a99599a5e519fa9f3fd29087d00246e
     <option name="x" value="7" />
+>>>>>>> eeec8c2e4ff3deb302046e6ef3e7c4180b292fb3
     <option name="width" value="1935" />
     <option name="height" value="510" />
   </component>
@@ -63,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -74,7 +104,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -93,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_add_group.py">
+  <component name="RunManager" selected="Python tests.pytest in test_add_group.py">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,8 +158,24 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in test_add_group.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="python_training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\PS\PycharmProjects\training\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_add_group.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python tests.pytest in test_add_group.py" />
       <item itemvalue="Python tests.Unittests in test_add_group.py" />
     </list>
   </component>
@@ -175,8 +220,13 @@
     <history-entry file="Unittests_in_test_add_group_py - 2019.04.08 at 16h 03m 25s.xml">
       <configuration name="Unittests in test_add_group.py" configurationId="tests" />
     </history-entry>
+<<<<<<< HEAD
     <history-entry file="Unittests_in_test_add_group_py - 2019.04.08 at 16h 31m 30s.xml">
       <configuration name="Unittests in test_add_group.py" configurationId="tests" />
+=======
+    <history-entry file="pytest_in_test_add_group_py - 2019.04.05 at 20h 45m 25s.xml">
+      <configuration name="pytest in test_add_group.py" configurationId="tests" />
+>>>>>>> 0c4a940c5a99599a5e519fa9f3fd29087d00246e
     </history-entry>
   </component>
   <component name="TodoView">
@@ -190,15 +240,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
+<<<<<<< HEAD
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24917382" />
+=======
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12557831" />
+>>>>>>> eeec8c2e4ff3deb302046e6ef3e7c4180b292fb3
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+=======
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+>>>>>>> eeec8c2e4ff3deb302046e6ef3e7c4180b292fb3
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -212,6 +270,13 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/geckodriver.log" />
+    <entry file="file://$PROJECT_DIR$/test_add_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+=======
     <entry file="file://$PROJECT_DIR$/geckodriver.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1009" />
@@ -226,8 +291,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_add_group.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-730">
           <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+=======
+        <state relative-caret-position="-221">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="25" />
+>>>>>>> eeec8c2e4ff3deb302046e6ef3e7c4180b292fb3
+>>>>>>> 0c4a940c5a99599a5e519fa9f3fd29087d00246e
           <folding>
             <element signature="e#24#82#0" expanded="true" />
           </folding>
