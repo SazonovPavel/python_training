@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98bed8ce-b1ea-4db2-bdbd-a9f6d9af640c" name="Default Changelist" comment="" />
+    <list default="true" id="98bed8ce-b1ea-4db2-bdbd-a9f6d9af640c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_add_group.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-221">
-              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="-730">
+              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
               <folding>
                 <element signature="e#24#82#0" expanded="true" />
               </folding>
@@ -51,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="7" />
     <option name="width" value="1935" />
     <option name="height" value="510" />
@@ -146,9 +148,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_add_group_py - 2019.04.05 at 16h 33m 53s.xml">
-      <configuration name="Unittests in test_add_group.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_test_add_group_py - 2019.04.08 at 09h 16m 05s.xml">
       <configuration name="Unittests in test_add_group.py" configurationId="tests" />
     </history-entry>
@@ -174,6 +173,9 @@
       <configuration name="Unittests in test_add_group.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_test_add_group_py - 2019.04.08 at 16h 03m 25s.xml">
+      <configuration name="Unittests in test_add_group.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_add_group_py - 2019.04.08 at 16h 31m 30s.xml">
       <configuration name="Unittests in test_add_group.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -224,8 +226,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_add_group.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="-730">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
           <folding>
             <element signature="e#24#82#0" expanded="true" />
           </folding>
