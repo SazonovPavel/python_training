@@ -1,7 +1,7 @@
 # _*_ config: utf-8 _*_
 import pytest
-from group import Group
-from applycation import Applycation
+from model.group import Group
+from fixture.applycation import Applycation
 
 @pytest.fixture
 def app(request):
